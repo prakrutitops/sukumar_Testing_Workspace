@@ -1,0 +1,26 @@
+Testing:Software Testing is a process used to identify 
+correctness,completeness,quality of developed computer software
+
+Actual result = Expected Result
+70  = 80
+
+Types of Testing
+1) Manual Testing -> By Human
+2) Automation Testing -> By Software
+
+
+1)Manual Testing:
+
+1.Desktop Software
+2.Mobile Applications
+3.Websites
+
+SDLC -> Software Development Lifecycle
+
+1)Requirement Gathering
+2)Analysis
+3)Design
+4)Implementation
+5)Testing
+6)Maintenance
+
