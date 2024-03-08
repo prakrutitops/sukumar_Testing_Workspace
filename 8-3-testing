@@ -1,0 +1,57 @@
+1)correctness : 
+2)completeness :
+3)quality : 
+
+Testing: Testing is a process used to identify correctness,completeness and quality of
+developed computer software
+
+-> in testing we have to check that expected and actual result should be same
+
+-> Using Testing we can find any gaps, errors or missing requirements
+
+-> Activity
+-> Process
+
+SDLC Process
+Software Development Lifecycle
+
+Static Testing: Do not execute the code
+Dynamic Testing : Execute the code
+
+Once Project will be developed after that test it
+
+When to start testing?
+->Once the development will be complete then you can start testing
+
+When to stop testing
+->once the error will be solved 
+
+
+Stages of SDLC
+1)Requirement Gathering:
+	1)Functional Requirement->Practically We can Perform
+	2)Non Funtional Requirement->Practically We can not Perform
+
+->data written format
+->data diagram format
+
+
+
+2)Analysis
+3)Design
+4)Implementation
+5)Testing
+6)Maintenance
+	1)corrective Maintenance:Correct Your Mistakes
+	2)Adaptive Maintenance:Take it to the new platform
+	3)Perfective Maintenance:Make it more perfect
+
+
+
+
+
+
+
+
+
+
