@@ -1,0 +1,32 @@
+Software Architecture Layers
+
+1) Presentation Layer -> Represent Something
+2) Application Layer -> But in behind there is some logic[Business Logic]
+3) Data Layer -> it's connect with database
+
+
+
+
+dev ->development
+QA-> QUALITY aSSUrance
+UAT-> user acceptance testing
+Prod
+
+
+OOP-> Object Oriented Programming
+
+Features of OOP
+
+1)Object:Any Entity which has own state and behaviour that is called an object
+
+2)Class:collection of objects that is called class
+
+3)Abstraction:Hiding internal details and showing functionalities that is called abstraction
+
+4)Encapsulation:Wrapping up of data or binding of data that is called encapsulation
+
+5)Inheritance:When one object acquire all the properties and behaviour of parent class that is called an inheritance
+
+6)Polymorphism:Many ways to perform anything that is called polymorphism
+
+
